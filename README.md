@@ -18,15 +18,25 @@
 
 <br/><br/>
 
+<br/><br/>
+
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="20px" /> I am a Flutter App Developer 📱
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="20px" style="vertical-align: middle;" /> I am a Flutter App Developer 📱
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dart.svg" alt="Dart" height="20px" /> Dart Programmer 💻
+  <img src="https://raw.githubusercontent.com/dart-lang/logos/master/logos_and_wordmarks/dart-logo.png" alt="Dart" height="20px" style="vertical-align: middle;" /> Dart Programmer 💻
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/figma.svg" alt="UI/UX Designer" height="20px" /> UI/UX Designer 🎨
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="UI/UX Designer" height="20px" style="vertical-align: middle;" /> UI/UX Designer 🎨
 </p>
+
+<p>
+  I love building <b>beautiful and functional mobile apps</b> and <b>web interfaces</b>,<br/>
+  exploring new tech stacks, and turning ideas into real projects.
+</p>
+
+<br/><br/>
+>
 
 <p>
   I love building <b>beautiful and functional mobile apps</b> and <b>web interfaces</b>,<br/>
