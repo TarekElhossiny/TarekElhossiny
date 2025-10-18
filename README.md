@@ -19,7 +19,8 @@ exploring new tech stacks, and turning ideas into real projects.
 
 - 🔭 I’m currently working on **Flutter apps and UI/UX designs**  
 - 🌱 I’m learning **advanced Dart, Flutter animations, and web design**  
-- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/TarekElhossiny?tab=repositories)  
+- 👨🏻‍💻 Most of my projects are available on [WhatsApp](https://wa.me/201117786658
+)  
 - 💬 Ask me about **Flutter, Dart, Firebase, or UI/UX design**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tarek-elhossiny/)  
 - 🎨 I create clean, modern app interfaces using **Figma**  
@@ -43,10 +44,4 @@ exploring new tech stacks, and turning ideas into real projects.
 
 <br/>
 
-### 🛠️ My Projects
-<a href="https://TarekElhossiny.github.io/TechverseApp/" target="_blank"><img alt="Techverse App" src="./projects/techverse_app.svg" height="68" align="left"></a>
-<a href="https://TarekElhossiny.github.io/AnotherProject/" target="_blank"><img alt="Another Project" src="./projects/another_project.svg" height="68" align="left"></a>
 
-<br style="clear:both;"/>
-
-⚡ Fun fact: I enjoy experimenting with new tech stacks and turning ideas into real apps!
