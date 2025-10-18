@@ -1,12 +1,18 @@
 ## Hey 👋, I'm Tarek Elhossiny!
 
 <!-- Social Links Horizontal -->
-<a href='https://www.linkedin.com/in/tarek-elhossiny/'><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='30px'/></a>
-<a href="https://www.facebook.com/TarekElhosiny6" target="_blank">
-  <img align="left" alt="Facebook" height="18px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg"/>
-</a>
+<p>
+  <a href='https://www.linkedin.com/in/tarek-elhossiny/' target="_blank">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='30px'/>
+  </a>
+  <a href="https://www.facebook.com/TarekElhosiny6" target="_blank">
+    <img alt="Facebook" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" height="30px"/>
+  </a>
+  <a href='https://wa.me/201234567890' target="_blank">
+    <img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height='30px'/>
+  </a>
+</p>
 
-<a href='https://wa.me/201234567890'><img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height='30px'/></a>
 
 <br/><br/>
 
