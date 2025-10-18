@@ -2,7 +2,7 @@
 
 <!-- Social Links Horizontal -->
 <a href='https://www.linkedin.com/in/tarek-elhossiny/'><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/tarekelhossiny/'><img alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.facebook.com/TarekElhosiny6?locale=ar_AR'><img alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://wa.me/201234567890'><img alt="WhatsApp" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height='18px'/></a>
 
 <br/><br/>
@@ -36,12 +36,6 @@ exploring new tech stacks, and turning ideas into real projects.
 
 <br style="clear:both;"/>
 
-### 📊 GitHub Stats
-<a href='https://github.com/TarekElhossiny/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Top Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-</a>
 
-<br/>
 
 
