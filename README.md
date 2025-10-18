@@ -1,9 +1,10 @@
 ## Hey 👋, I'm Tarek Elhossiny!
+
 <a href='https://www.linkedin.com/in/tarek-elhossiny/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/tarekelhossiny/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://github.com/TarekElhossiny/'><img align='left' alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height='18px'/></a>
 
-I am a Flutter App Developer 📱, Dart Programmer 💻, and UI/UX Designer 🎨. I love building **beautiful and functional mobile apps** and **web interfaces**, exploring new tech stacks, and turning ideas into real projects.  
+I am a Flutter App Developer 📱, Dart Programmer 💻, and UI/UX Designer 🎨. I love building **beautiful and functional mobile apps** and **web interfaces**, exploring new tech stacks, and turning ideas into real projects.
 
 <br/><br/>
 
@@ -33,8 +34,4 @@ I am a Flutter App Developer 📱, Dart Programmer 💻, and UI/UX Designer 🎨
 
 ### 🛠️ My Projects
 <a href="https://github.com/TarekElhossiny/techverse_app" target="_blank"><img alt="Techverse App" src="./projects/techverse_app.svg" height="68" align="left" /></a>
-<a href="https://github.com/TarekElhossiny/another_project" target="_blank"><img alt="Another Project" src="./projects/another_project.svg" height="68" align="left" /></a>
-
-<br/><br/>
-
-> ⚡ Fun fact: I enjoy experimenting with new tech stacks and turning ideas into real apps!
+<a href="https://github.com/Tarek
