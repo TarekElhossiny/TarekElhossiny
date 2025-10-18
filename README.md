@@ -16,25 +16,21 @@
 
 <br/><br/>
 
-<br/><br/>
 
-<br/><br/>
-
-<br/><br/>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="20px" style="vertical-align: middle;" /> 
-  I am a Flutter App Developer 📱
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="25px" style="vertical-align: middle;" /> 
+  <b style="color:#02569B;">I am a Flutter App Developer 📱</b>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/dart-lang/logos/master/logos_and_wordmarks/dart-logo.png" alt="Dart" height="20px" style="vertical-align: middle;" /> 
-  Dart Programmer 💻
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="25px" style="vertical-align: middle;" /> 
+  <b style="color:#0175C2;">Dart Programmer 💻</b>
 </p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="UI/UX Designer" height="20px" style="vertical-align: middle;" /> 
-  UI/UX Designer 🎨
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX Designer" height="25px" style="vertical-align: middle;" /> 
+  <b style="color:#F24E1E;">UI/UX Designer 🎨</b>
 </p>
 
 <p>
@@ -42,24 +38,10 @@
   exploring new tech stacks, and turning ideas into real projects.
 </p>
 
+
+
 <br/><br/>
 
-
-<p>
-  I love building <b>beautiful and functional mobile apps</b> and <b>web interfaces</b>,<br/>
-  exploring new tech stacks, and turning ideas into real projects.
-</p>
-
-<br/><br/>
->
-
-<p>
-  I love building <b>beautiful and functional mobile apps</b> and <b>web interfaces</b>,<br/>
-  exploring new tech stacks, and turning ideas into real projects.
-</p>
-
-<br/><br/>
-.
 
 <br/><br/>
 
